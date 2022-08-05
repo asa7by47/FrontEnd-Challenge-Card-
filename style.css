@@ -1,0 +1,29 @@
+.background{
+    background-color:#f3eae3;
+    width: 100%;
+    height: auto;
+    padding:4rem 0 !important;
+}
+.card{
+    width: 50%;
+    height: auto;       
+}
+span,p{
+    color:#7d7d87 ;
+}
+h2{
+    color: #388267;
+}
+del{
+    color: #737379;
+    font-size: 1rem;
+}
+.btn-success{
+    background-color: #1a4031;
+    
+}
+@media only screen and (max-width: 600px) {
+    button {
+      margin: 15px !important;
+    }
+  }
